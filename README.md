@@ -108,7 +108,7 @@ Please don't use any `<blink>` tags.
 
 ![Alt text](C:\Users\kotar\Pictures\Camera Roll\20160906_174837_722.jpg)
 
-![Alt text](C:\Users\kotar\Pictures\Camera Roll\1503822227949.jpg)
+![Alt text](http://www.mtr.bj.cn/images/x_yqlj_banner.png)
 
 ![Alt text][imgid]
 
