@@ -106,13 +106,12 @@ Please don't use any `<blink>` tags.
 
 `&#8212;` is the decimal-encoded equivalent of `&mdash;`.
 
-![Alt text](C:\Users\kotar\Pictures\Camera Roll\20160906_174837_722.jpg)
-
 ![Alt text](http://www.mtr.bj.cn/images/x_yqlj_banner.png)
+
 
 ![Alt text][imgid]
 
-[imgid]: C:\Users\kotar\Pictures\CameraRoll\ChMkJ1auyiSIdnO2AB7ek9x9APQAAH8rAGxbCMAHt6r886.jpg "Optional title attribute"
+[imgid]: http://www.mtr.bj.cn/images/x_yqlj_banner.png "Optional title attribute"
 
 <img src="http://www.mtr.bj.cn/images/x_yqlj_banner.png"/>
 
