@@ -114,6 +114,8 @@ Please don't use any `<blink>` tags.
 
 [imgid]: C:\Users\kotar\Pictures\CameraRoll\ChMkJ1auyiSIdnO2AB7ek9x9APQAAH8rAGxbCMAHt6r886.jpg "Optional title attribute"
 
+<img src="http://www.mtr.bj.cn/images/x_yqlj_banner.png"/>
+
 ~~Mistaken text.~~
 
 ```
